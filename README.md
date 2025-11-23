@@ -1,7 +1,4 @@
 ## Bem-vindo(a) ao perfil do JaspionU2 😁
-<div>
- <img src=""/>
-</div>
 
  <div>
    <a href="https://github.com/jaspionU2">
