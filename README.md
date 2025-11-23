@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/jaspionU2">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaspionU2&show_icons=true&theme=calm_pink&border_radius=6.0&include_all_commits=true&count_private=true&rank_icon=github&custom_title=jaspionU2&apos;&nbsp;Progress🚀"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaspionU2&layout=donut&langs_count=5&theme=calm_pink&border_radius=6.0&size_weight=0.5&count_weight=0.5&card_width=400"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jaspionU2&show_icons=true&theme=calm_pink&border_radius=6.0&include_all_commits=true&count_private=true&rank_icon=github&custom_title=jaspionU2&apos;&nbsp;Progress🚀"/>
+   <img height="200em" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaspionU2&layout=donut&langs_count=5&theme=calm_pink&size_weight=0.5&count_weight=0.5"/>
 </div>
     
 <div style="display: inline_block"><br>
