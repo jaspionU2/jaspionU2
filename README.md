@@ -14,7 +14,12 @@
     src="https://github-readme-stats.vercel.app/api?username=jaspionU2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   </a>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaspionU2&layout=donut&langs_count=5&theme=dark&size_weight=0.5&count_weight=0.5"/>
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolidusJack&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </div>
     
 <div style="display: inline_block"><br>
